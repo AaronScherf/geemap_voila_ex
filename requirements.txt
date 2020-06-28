@@ -1,7 +1,6 @@
 earthengine-api
 ee
 geemap
-json
 os
 requests
 ipyleaflet
