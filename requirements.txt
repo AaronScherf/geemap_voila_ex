@@ -1,6 +1,5 @@
 attrs==19.3.0
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
-beautifulsoup4 @ file:///D:/bld/beautifulsoup4_1589761059039/work
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
 bqplot @ file:///home/conda/feedstock_root/build_artifacts/bqplot_1592851124979/work
 branca==0.3.1
