@@ -1,7 +1,7 @@
 async-generator==1.10
 attrs==19.3.0
 backcall
-beautifulsoup4 @ file:///D:/bld/beautifulsoup4_1589761059039/work
+beautifulsoup4
 bleach
 bqplot
 branca==0.3.1
